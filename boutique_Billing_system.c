@@ -234,7 +234,7 @@ int main()
     printf("\n\n****************************************************************************************************************************************************");
     printf("\n\t\t\t\t\t\tBOUTIQUE BILLING SYSTEM\t\t\t\t");
     printf("\n\t\t\t\t\t\t-----------------------\t\t\t\t");
-    printf("\n\t\t\t  submitted by: Aniket Gupta , Anish Jaiswal , Aniket Teswar & Anny Genisse\t\t\t\t");
+    printf("\n\t\t\t\t Made by: Aniket Gupta \t\t\t\t");
 
     printf("\n****************************************************************************************************************************************************\n");
 
